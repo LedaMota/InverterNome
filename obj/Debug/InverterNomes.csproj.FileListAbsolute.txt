@@ -1,0 +1,7 @@
+C:\WorkspaceLediane\InverterNomes\obj\Debug\InverterNomes.csproj.AssemblyReference.cache
+C:\WorkspaceLediane\InverterNomes\obj\Debug\InverterNomes.csproj.CoreCompileInputs.cache
+C:\WorkspaceLediane\InverterNomes\bin\Debug\InverterNomes.exe.config
+C:\WorkspaceLediane\InverterNomes\bin\Debug\InverterNomes.exe
+C:\WorkspaceLediane\InverterNomes\bin\Debug\InverterNomes.pdb
+C:\WorkspaceLediane\InverterNomes\obj\Debug\InverterNomes.exe
+C:\WorkspaceLediane\InverterNomes\obj\Debug\InverterNomes.pdb
